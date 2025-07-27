@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/demo_mlProject/__init__.py
+src/demo_mlProject/configuration.py
+src/demo_mlProject/components/__init__.py
+src/demo_mlProject/config/__init__.py
+src/demo_mlProject/constants/__init__.py
+src/demo_mlProject/entity/__init__.py
+src/demo_mlProject/pipeline/__init__.py
+src/demo_mlProject/pipeline/config_entity.py
+src/demo_mlProject/utils/__init__.py
+src/demo_mlProject/utils/common.py
+src/mlProject.egg-info/PKG-INFO
+src/mlProject.egg-info/SOURCES.txt
+src/mlProject.egg-info/dependency_links.txt
+src/mlProject.egg-info/top_level.txt
